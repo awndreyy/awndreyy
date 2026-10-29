@@ -73,9 +73,9 @@ nutritional information for parents.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=awndreyy&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+### Contribution Activity
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awndreyy&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=awndreyy&theme=github-dark&hide_border=true" width="95%" alt="Contribution Graph" />
 
 </div>
 
