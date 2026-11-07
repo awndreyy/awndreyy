@@ -19,7 +19,6 @@
 I'm an Informatics student passionate about
 building useful web and mobile applications.
 
-- 🔭 Currently working on **StunGuard**
 - 🌱 Learning **Laravel, Flutter & REST APIs**
 - 💻 Interested in Full-Stack Development
 - 🎯 Improving my software engineering skills
@@ -47,7 +46,7 @@ building useful web and mobile applications.
 
 ## 🚀 Featured Projects
 
-### 🩺 StunGuard — Web Application
+### 🩺 StuntGuard — Web Application
 
 A Laravel-based application for monitoring
 child growth, managing measurement records,
@@ -57,7 +56,7 @@ and providing nutritional information.
 
 [View Repository](https://github.com/awndreyy/stuntGuard_Jember)
 
-### 📱 StunGuard — Mobile Application
+### 📱 StuntGuard — Mobile Application
 
 A Flutter-based mobile companion application
 focused on child growth monitoring and
